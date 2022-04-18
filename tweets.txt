@@ -3,3 +3,6 @@ Dummy tweet2
 Dummy tweet3
 Dummy tweet3
 Dummy tweet4
+A
+B
+C
